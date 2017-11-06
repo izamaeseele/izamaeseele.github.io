@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "izamaeseele",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 76,
     "versionPublish": "4.3.4",
@@ -535,7 +535,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8893.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -548,41 +548,41 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">see more</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"songsofremembrance.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8900.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Jefre Cantu-Ledasma - <br>songs of remembrance",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"songsofremembrance.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8902.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Jefre Cantu-Ledasma - <br>songs of remembrance",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"songsofremembrance.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               }
             ]
           }
@@ -637,7 +637,7 @@
             }
           },
           "_name": "image4",
-          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"177\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#efefef\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8857-bewerkt.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">\n                            Dia's \n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8964.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Dia's gemaakt uit negatieven van mij en mijn vader. De negatieven zijn versneden en over elkaar gelegd om zo tot nieuw resultaten te komen\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"177\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#efefef\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"dias.html\"><img src=\"@PROJECT_PATH@/assets/images/dsc-8857-bewerkt.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">\n                            Dia's \n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8964.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Dia's gemaakt uit negatieven van mij en mijn vader. De negatieven zijn versneden en over elkaar gelegd om zo tot nieuw resultaten te komen\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "image4-1y",
           "_cid": "qA7uzklxTs",
           "_protectedParams": [],
@@ -934,88 +934,88 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8907.jpg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Paris Match",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": " In deze publicatie wordt de klimaatconferentie onderzocht ondersteunt met het thema van franse tuin tot jungle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"parismatch.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8910.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Paris Match",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "In deze publicatie wordt de klimaatconferentie onderzocht ondersteunt met het thema van franse tuin tot jungle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"parismatch.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8911.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Paris Match",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "In deze publicatie wordt de klimaatconferentie onderzocht ondersteunt met het thema van franse tuin tot jungle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"parismatch.html\" data-toolbar=\"-mbrBtnMove\">paris match</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8923-bewerkt.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Paris Match",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "In deze publicatie wordt de klimaatconferentie onderzocht ondersteunt met het thema van franse tuin tot jungle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"parismatch.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8920.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Paris Match",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": " In deze publicatie wordt de klimaatconferentie onderzocht ondersteunt met het thema van franse tuin tot jungle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"parismatch.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               }
             ]
           }
@@ -1070,7 +1070,7 @@
             }
           },
           "_name": "image4",
-          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"57\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#efefef\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8835-bewerkt.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">\n                            Grondswet\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8839-bewerkt-1.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\"></p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"57\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#efefef\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-8835-bewerkt.jpg\" alt title>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\">\n                            Grondswet\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"grondswet.html\"><img src=\"@PROJECT_PATH@/assets/images/dsc-8839-bewerkt-1.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\"></p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "image4-1z",
           "_cid": "qA7v5VliPU",
           "_protectedParams": [],
@@ -1367,54 +1367,54 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8820-bewerkt-1.jpg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Baden",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Deze publicatie illustreert de handeling baden en moord.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"baden.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8827-bewerkt-1.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Baden",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Deze publicatie illustreert de handeling baden en moord.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"baden.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-8830-bewerkt-1.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "title": "Baden",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Deze publicatie illustreert de handeling baden en moord. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"baden.html\" data-toolbar=\"-mbrBtnMove\">see more</a>"
               }
             ]
           }
@@ -1467,7 +1467,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "copyright",
-        "order": 9
+        "order": 13
       },
       "components": [
         {
@@ -1512,7 +1512,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "loopgraaf",
-        "order": 8
+        "order": 12
       },
       "components": []
     },
@@ -1520,7 +1520,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "het bos",
-        "order": 7
+        "order": 11
       },
       "components": []
     },
@@ -1528,7 +1528,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "klantenkaart",
-        "order": 6
+        "order": 10
       },
       "components": []
     },
@@ -1536,7 +1536,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "oude druktechnieken",
-        "order": 5
+        "order": 9
       },
       "components": []
     },
@@ -1544,7 +1544,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "There's light in the darkness",
-        "order": 4
+        "order": 8
       },
       "components": []
     },
@@ -1552,7 +1552,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "negen voorwerpen",
-        "order": 3
+        "order": 7
       },
       "components": []
     },
@@ -1560,7 +1560,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "krantenkop",
-        "order": 2
+        "order": 6
       },
       "components": []
     },
@@ -1568,6 +1568,38 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "songs of remembrance",
+        "order": 5
+      },
+      "components": []
+    },
+    "dias.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "dia's",
+        "order": 4
+      },
+      "components": []
+    },
+    "parismatch.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "paris match",
+        "order": 3
+      },
+      "components": []
+    },
+    "grondswet.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "grondswet",
+        "order": 2
+      },
+      "components": []
+    },
+    "baden.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "baden",
         "order": 1
       },
       "components": []
