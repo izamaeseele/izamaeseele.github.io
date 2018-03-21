@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "izamaeseele nl",
-    "currentPage": "parismatch.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 100,
     "versionPublish": "4.6.6",
@@ -27,7 +27,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
